@@ -21,6 +21,7 @@ Testing:          pytest, multi-environment integration tests
 
 | Project | Description | Key Tech |
 |---------|-------------|----------|
+| [winessense-backend](https://github.com/pavlevojvodic/winessense-backend) | **Production IoT platform** — real-time sensor data, weather APIs, and disease prediction for vineyards across Europe | Falcon, PostgreSQL, Docker |
 | [restaurant-orders-realtime](https://github.com/pavlevojvodic/restaurant-orders-realtime) | Real-time restaurant ordering with live kitchen notifications | WebSocket, SSE, Redis |
 | [ecommerce-stripe](https://github.com/pavlevojvodic/ecommerce-stripe) | E-commerce API with Stripe Checkout payment flow | Stripe Webhooks |
 | [crm-platform](https://github.com/pavlevojvodic/crm-platform) | CRM with sales pipelines, affiliate tracking, Excel reports | Celery, XlsxWriter |
