@@ -38,7 +38,7 @@ Testing:          pytest, multi-environment integration tests
 ## Full-Time Work
 
 > **Note:** My daily development activity since 2021 is on a private company Git server (not GitHub).
-> As the backend developer at [Atfield Technologies](https://atfield.tech), I maintain a production IoT platform with 75+ REST API endpoints, ETL data pipelines, and Docker-based infrastructure — committed to daily on private infrastructure.
+> As the backend developer at Atfield Technologies, I maintain a production IoT platform with 75+ REST API endpoints, ETL data pipelines, and Docker-based infrastructure — committed to daily on private infrastructure.
 
 ## About
 
