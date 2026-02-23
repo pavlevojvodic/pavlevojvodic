@@ -35,10 +35,14 @@ Testing:          pytest, multi-environment integration tests
 | [medical-testing-api](https://github.com/pavlevojvodic/medical-testing-api) | Medical lab testing with structured JSON results | PostgreSQL |
 | [telehealth-appointments](https://github.com/pavlevojvodic/telehealth-appointments) | Telehealth scheduling with practitioner profiles | DRF |
 
+## Full-Time Work
+
+> **Note:** My daily development activity since 2021 is on a private company Git server (not GitHub).
+> As the backend developer at [Atfield Technologies](https://atfield.tech), I maintain a production IoT platform with 75+ REST API endpoints, ETL data pipelines, and Docker-based infrastructure — committed to daily on private infrastructure.
+
 ## About
 
-- **BSc Information Systems & Technologies** — University of Belgrade, Faculty of Organizational Sciences
-- Currently working at **Atfield Technologies** on an agricultural IoT platform
+- **BSc Information Systems & Technologies** — University of Belgrade, Faculty of Organizational Sciences (GPA: 8.77/10)
 - Marathon runner, former water polo player, guitarist
 
 ---
