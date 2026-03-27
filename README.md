@@ -7,7 +7,7 @@ I build production REST APIs and data processing systems with Python, Django RES
 ## Tech Stack
 
 ```
-Languages:        Python, SQL, JavaScript, C#
+Languages:        Python, SQL, Java, JavaScript, C#
 Backend:          Django REST Framework, Falcon, Gunicorn, Daphne (ASGI)
 Databases:        PostgreSQL, Redis, SQL Server
 Real-Time:        Django Channels, WebSocket, SSE, Redis Pub/Sub
